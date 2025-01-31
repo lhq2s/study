@@ -1,3 +1,5 @@
 study o
 study i
+study three
+study yes
 
